@@ -91,3 +91,89 @@ header{
     margin: 30px;
     padding: 20px;
    }
+   .section-3{
+    display: flex;
+   }
+   h1{
+    font-size: 30px;
+    color: black;
+   }
+   .depend-p{
+    font-size: 15px;
+    color: #757575;
+    margin-bottom: 20px;
+   }
+   .depend{
+    margin:30px;
+    padding: 25px;
+   }
+   .section-4{
+    display: flex;
+   }
+   .survive-p{
+    font-size: 15px;
+    color: #757575;
+    margin-bottom: 20px;
+   }
+   .survive{
+    margin:30px;
+    padding: 25px;
+   }
+   .section-5{
+    text-align: center;
+   }
+   .Updates{
+    font-size: 14px;
+    color: #757575;
+   }
+   input{
+    color:black;
+    height: 25px;
+    border-radius: 0px;
+    padding:5px ;
+    background-color:white;
+    border: 2px solid black;
+   }
+   .button{
+    margin: 30px 60px 30px 100px;
+    padding: 30px;
+    background-color: antiquewhite;
+    width: 600px;
+    height: 100px;s
+   }
+   .mahadi{
+    display:flex;
+    justify-content:right;
+    margin-top:100px;
+   }
+   h3{
+    margin:0px;
+    padding:0;
+    color: blueviolet;
+   }
+   h1{
+    margin: 5px;
+    padding: 5px;
+    color:orangered;
+   }
+   p{
+    color:red;
+    margin: 0;
+    padding: 0%;
+   }
+   footer{
+    text-align: center;
+    background-color: black;
+    width: cover;
+    height: 100px;
+    margin-top: 30px;
+    padding-top: 30px;
+   }
+   .footer{
+    font-size: 25px;
+    color: brown;
+   }
+   .foot{
+    font-size:14px;
+    color:white;
+   }
