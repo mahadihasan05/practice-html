@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    background-image: url(../donate-today/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 400px;
+    padding:50px;
+ }
+ .header{
+    font-size: 40px;
+    color:white;
+    margin-bottom: 15px;
+ }
+ span{
+    color:orangered;
+ }
+  .header-p{
+    font-size: 15px;
+    color:aliceblue;
+    margin-bottom: 15px
+  }
+  .button-all{
+    color:white;
+    background-color:goldenrod;
+    padding: 10px;
+    border:none;
+  }
