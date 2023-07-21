@@ -47,6 +47,7 @@ header{
   }
    .section-description{
     color: #757575;
+    font-size: 12px;
    }
    .taka{
     background-color: aliceblue;
@@ -62,4 +63,31 @@ header{
     margin: 10px;
     border: none;
     border-bottom: 2px solid blanchedalmond;
+   }
+   .section-2{
+    text-align: center;
+   }
+   .section-plan{
+    display: flex;
+    margin-top: 30px;
+    padding: 40px;
+    box-shadow: 20px;
+   }
+   .plan-p{
+    font-size: 10px;
+   }
+   .food-plan{
+    background-color:bisque;
+    margin: 30px;
+    padding: 20px;
+   }
+   .shelter-plan{
+    background-color: aquamarine;
+    margin: 30px;
+    padding: 20px;
+   }
+   .edu-plan{
+    background-color:antiquewhite;
+    margin: 30px;
+    padding: 20px;
    }
